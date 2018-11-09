@@ -1,0 +1,406 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/MIPS_Projects/MIPS_Processor/sources
+vAdder32bits
+Z0 !s110 1541773890
+!i10b 1
+!s100 ]H0^NRAm[`J07LMS2@]Pb2
+IFZHhe?N^;?a3Blem1;zBY1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Examen_2/sources
+w1419780579
+8C:/Examen_2/sources/Adder32bits.v
+FC:/Examen_2/sources/Adder32bits.v
+Z3 L0 13
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1541773890.000000
+!s107 C:/Examen_2/sources/Adder32bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/Adder32bits.v|
+!s101 -O0
+!i113 1
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@adder32bits
+vALU
+R0
+!i10b 1
+!s100 YlnZ=]eCQhonAGRi96;nK1
+IEQElXDB8?3J48ScdF1?N;2
+R1
+R2
+w1446728703
+8C:/Examen_2/sources/ALU.v
+FC:/Examen_2/sources/ALU.v
+L0 20
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Examen_2/sources/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/ALU.v|
+!s101 -O0
+!i113 1
+R6
+n@a@l@u
+vALUControl
+Z7 !s110 1541773891
+!i10b 1
+!s100 Qli2k2:=RTRa27YmjDSQ;0
+I9T:S^L@ajQ=?J?Yk4YcOz2
+R1
+R2
+w1419780589
+8C:/Examen_2/sources/ALUControl.v
+FC:/Examen_2/sources/ALUControl.v
+Z8 L0 15
+R4
+r1
+!s85 0
+31
+Z9 !s108 1541773891.000000
+!s107 C:/Examen_2/sources/ALUControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/ALUControl.v|
+!s101 -O0
+!i113 1
+R6
+n@a@l@u@control
+vANDGate
+R7
+!i10b 1
+!s100 =@O=aQRi;bazk13J6U>4m3
+IaCGjYm4J8iU;L;@6NnV[O3
+R1
+R2
+w1419780594
+8C:/Examen_2/sources/ANDGate.v
+FC:/Examen_2/sources/ANDGate.v
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Examen_2/sources/ANDGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/ANDGate.v|
+!s101 -O0
+!i113 1
+R6
+n@a@n@d@gate
+vControl
+!s110 1541773882
+!i10b 1
+!s100 :]5GZCdG`>OIlM2bWWh]F2
+IzSc4Lzo:4^m[nN^8Bc56f2
+R1
+R2
+w1419780599
+8C:/Examen_2/sources/Control.v
+FC:/Examen_2/sources/Control.v
+Z10 L0 14
+R4
+r1
+!s85 0
+31
+Z11 !s108 1541773882.000000
+!s107 C:/Examen_2/sources/Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/Control.v|
+!s101 -O0
+!i113 1
+R6
+n@control
+vDataMemory
+!s110 1541773883
+!i10b 1
+!s100 @OPaVYHbgG?72[TazmZN01
+IAdzR:bi;7aOd8MU]k?MEG0
+R1
+R2
+w1419780722
+8C:/Examen_2/sources/DataMemory.v
+FC:/Examen_2/sources/DataMemory.v
+R3
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Examen_2/sources/DataMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/DataMemory.v|
+!s101 -O0
+!i113 1
+R6
+n@data@memory
+vDecoderRegisterFile
+Z12 !s110 1541773884
+!i10b 1
+!s100 WiBBY1;C0OC:8`V5m[Rn51
+IKGTo6JlV^feCo52z@83fz0
+R1
+R2
+w1419780743
+8C:/Examen_2/sources/DecoderRegisterFile.v
+FC:/Examen_2/sources/DecoderRegisterFile.v
+Z13 L0 12
+R4
+r1
+!s85 0
+31
+!s108 1541773883.000000
+!s107 C:/Examen_2/sources/DecoderRegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/DecoderRegisterFile.v|
+!s101 -O0
+!i113 1
+R6
+n@decoder@register@file
+vMIPS_Processor
+R12
+!i10b 1
+!s100 [5WPR@FFAaSz^KVzRTG]T1
+IY:hUI3IU[i0K;I]IZ0Qz92
+R1
+R2
+w1498510417
+8C:/Examen_2/sources/MIPS_Processor.v
+FC:/Examen_2/sources/MIPS_Processor.v
+L0 28
+R4
+r1
+!s85 0
+31
+!s108 1541773884.000000
+!s107 C:/Examen_2/sources/MIPS_Processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/MIPS_Processor.v|
+!s101 -O0
+!i113 1
+R6
+n@m@i@p@s_@processor
+vMIPS_Processor_TB
+Z14 !s110 1541773885
+!i10b 1
+!s100 L>mJjjH6H@k7RIENgJlFW1
+IeSRO17z8[]9gCP<KWiglV3
+R1
+R2
+w1498510272
+8C:/Examen_2/sources/MIPS_Processor_TB.v
+FC:/Examen_2/sources/MIPS_Processor_TB.v
+R8
+R4
+r1
+!s85 0
+31
+Z15 !s108 1541773885.000000
+!s107 C:/Examen_2/sources/MIPS_Processor_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/MIPS_Processor_TB.v|
+!s101 -O0
+!i113 1
+R6
+n@m@i@p@s_@processor_@t@b
+vMultiplexer2to1
+R14
+!i10b 1
+!s100 F48Y>?kNP3VGSJ<6PZ3Z<0
+IMV8@;JD1JEni?To5Z1[A81
+R1
+R2
+w1498510608
+8C:/Examen_2/sources/Multiplexer2to1.v
+FC:/Examen_2/sources/Multiplexer2to1.v
+R3
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Examen_2/sources/Multiplexer2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/Multiplexer2to1.v|
+!s101 -O0
+!i113 1
+R6
+n@multiplexer2to1
+vMUXRegisterFile
+Z16 !s110 1541773886
+!i10b 1
+!s100 <^j`[[]Fjj[]CWW`3JSFT0
+IZ0>G@0ZgEI9W8IJkn:njV3
+R1
+R2
+w1392863324
+8C:/Examen_2/sources/MUXRegisterFile.v
+FC:/Examen_2/sources/MUXRegisterFile.v
+L0 2
+R4
+r1
+!s85 0
+31
+Z17 !s108 1541773886.000000
+!s107 C:/Examen_2/sources/MUXRegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/MUXRegisterFile.v|
+!s101 -O0
+!i113 1
+R6
+n@m@u@x@register@file
+vORGate
+R16
+!i10b 1
+!s100 VDAQXD2][BccU9@P]e06z0
+I9^FeT4GfA=C[D@=kc@VUN0
+R1
+R2
+w1419780649
+8C:/Examen_2/sources/ORGate.v
+FC:/Examen_2/sources/ORGate.v
+R3
+R4
+r1
+!s85 0
+31
+R17
+!s107 C:/Examen_2/sources/ORGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/ORGate.v|
+!s101 -O0
+!i113 1
+R6
+n@o@r@gate
+vPC_Register
+!s110 1541773887
+!i10b 1
+!s100 _;b?E28JEcZ?mB]466AVZ0
+I>8Y37;[GN3CHDgGe_k1[>2
+R1
+R2
+w1498510622
+8C:/Examen_2/sources/PC_Register.v
+FC:/Examen_2/sources/PC_Register.v
+R8
+R4
+r1
+!s85 0
+31
+Z18 !s108 1541773887.000000
+!s107 C:/Examen_2/sources/PC_Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/PC_Register.v|
+!s101 -O0
+!i113 1
+R6
+n@p@c_@register
+vProgramMemory
+Z19 !s110 1541773888
+!i10b 1
+!s100 <Izf09ffZ04P<IZZcFLJ91
+IJCmXc4mogH8HaOf7Oo>ki0
+R1
+R2
+w1541773851
+8C:/Examen_2/sources/ProgramMemory.v
+FC:/Examen_2/sources/ProgramMemory.v
+R8
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Examen_2/sources/ProgramMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/ProgramMemory.v|
+!s101 -O0
+!i113 1
+R6
+n@program@memory
+vRegister
+R19
+!i10b 1
+!s100 egCIUc]UZ1M2z58M]>B@S3
+I]:=>IlNXcB1Jfm>6GO_6h3
+R1
+R2
+w1419780761
+8C:/Examen_2/sources/Register.v
+FC:/Examen_2/sources/Register.v
+R13
+R4
+r1
+!s85 0
+31
+Z20 !s108 1541773888.000000
+!s107 C:/Examen_2/sources/Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/Register.v|
+!s101 -O0
+!i113 1
+R6
+n@register
+vRegisterFile
+R19
+!i10b 1
+!s100 iRCaBoP=AVEo`Pldi`c<00
+IPm0hM?B^f[VF]0S`7[U8C0
+R1
+R2
+w1475512762
+8C:/Examen_2/sources/RegisterFile.v
+FC:/Examen_2/sources/RegisterFile.v
+R8
+R4
+r1
+!s85 0
+31
+R20
+!s107 C:/Examen_2/sources/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/RegisterFile.v|
+!s101 -O0
+!i113 1
+R6
+n@register@file
+vShiftLeft2
+Z21 !s110 1541773889
+!i10b 1
+!s100 Hi:hlBR22G;<919E5iIcC3
+I@NYn4ghn33=[WCiUiA[4U2
+R1
+R2
+w1419780687
+8C:/Examen_2/sources/ShiftLeft2.v
+FC:/Examen_2/sources/ShiftLeft2.v
+R13
+R4
+r1
+!s85 0
+31
+Z22 !s108 1541773889.000000
+!s107 C:/Examen_2/sources/ShiftLeft2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/ShiftLeft2.v|
+!s101 -O0
+!i113 1
+R6
+n@shift@left2
+vSignExtend
+R21
+!i10b 1
+!s100 I1D7fe4B<UD12_E`@TC:T3
+IJASozg`i1meUO79<k@AE12
+R1
+R2
+w1419780694
+8C:/Examen_2/sources/SignExtend.v
+FC:/Examen_2/sources/SignExtend.v
+R10
+R4
+r1
+!s85 0
+31
+R22
+!s107 C:/Examen_2/sources/SignExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Examen_2/sources/SignExtend.v|
+!s101 -O0
+!i113 1
+R6
+n@sign@extend

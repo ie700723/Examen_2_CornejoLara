@@ -1,0 +1,127 @@
+C:/Examen_2/sources/MUXRegisterFile.v {1 {vlog -work work -stats=none C:/Examen_2/sources/MUXRegisterFile.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUXRegisterFile
+
+Top level modules:
+	MUXRegisterFile
+
+} {} {}} C:/Examen_2/sources/Control.v {1 {vlog -work work -stats=none C:/Examen_2/sources/Control.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/Examen_2/sources/Multiplexer2to1.v {1 {vlog -work work -stats=none C:/Examen_2/sources/Multiplexer2to1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Multiplexer2to1
+
+Top level modules:
+	Multiplexer2to1
+
+} {} {}} C:/Examen_2/sources/ProgramMemory.v {1 {vlog -work work -stats=none C:/Examen_2/sources/ProgramMemory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ProgramMemory
+
+Top level modules:
+	ProgramMemory
+
+} {} {}} C:/Examen_2/sources/ALU.v {1 {vlog -work work -stats=none C:/Examen_2/sources/ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Examen_2/sources/MIPS_Processor_TB.v {1 {vlog -work work -stats=none C:/Examen_2/sources/MIPS_Processor_TB.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MIPS_Processor_TB
+
+Top level modules:
+	MIPS_Processor_TB
+
+} {} {}} C:/Examen_2/sources/Register.v {1 {vlog -work work -stats=none C:/Examen_2/sources/Register.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} C:/Examen_2/sources/RegisterFile.v {1 {vlog -work work -stats=none C:/Examen_2/sources/RegisterFile.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/Examen_2/sources/Adder32bits.v {1 {vlog -work work -stats=none C:/Examen_2/sources/Adder32bits.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Adder32bits
+
+Top level modules:
+	Adder32bits
+
+} {} {}} C:/Examen_2/sources/PC_Register.v {1 {vlog -work work -stats=none C:/Examen_2/sources/PC_Register.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}} C:/Examen_2/sources/MIPS_Processor.v {1 {vlog -work work -stats=none C:/Examen_2/sources/MIPS_Processor.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MIPS_Processor
+
+Top level modules:
+	MIPS_Processor
+
+} {} {}} C:/Examen_2/sources/SignExtend.v {1 {vlog -work work -stats=none C:/Examen_2/sources/SignExtend.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/Examen_2/sources/ORGate.v {1 {vlog -work work -stats=none C:/Examen_2/sources/ORGate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ORGate
+
+Top level modules:
+	ORGate
+
+} {} {}} C:/Examen_2/sources/ALUControl.v {1 {vlog -work work -stats=none C:/Examen_2/sources/ALUControl.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} C:/Examen_2/sources/ShiftLeft2.v {1 {vlog -work work -stats=none C:/Examen_2/sources/ShiftLeft2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} C:/Examen_2/sources/DataMemory.v {1 {vlog -work work -stats=none C:/Examen_2/sources/DataMemory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/Examen_2/sources/DecoderRegisterFile.v {1 {vlog -work work -stats=none C:/Examen_2/sources/DecoderRegisterFile.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DecoderRegisterFile
+
+Top level modules:
+	DecoderRegisterFile
+
+} {} {}} C:/Examen_2/sources/ANDGate.v {1 {vlog -work work -stats=none C:/Examen_2/sources/ANDGate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ANDGate
+
+Top level modules:
+	ANDGate
+
+} {} {}}
